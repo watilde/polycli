@@ -1,0 +1,22 @@
+{
+  "name": "polycli",
+  "version": "0.0.1",
+  "description": "polymer command rule them all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/polycli.git"
+  },
+  "keywords": [
+    "Polymer"
+  ],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/polycli/issues"
+  },
+  "homepage": "https://github.com/watilde/polycli#readme"
+}
